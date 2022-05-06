@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604671360942",
+    "project_id": "flutter-mapps-f14c8",
+    "storage_bucket": "flutter-mapps-f14c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604671360942:android:d07c180cf89a679a32123f",
+        "android_client_info": {
+          "package_name": "com.example.anafeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604671360942-5iur3cd9gvarokln1n6jqnce0u8io8m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHOMTdF5RtPAWJGu4bWFMn_UdexnLyNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604671360942-5iur3cd9gvarokln1n6jqnce0u8io8m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
