@@ -1,6 +1,6 @@
-# anafeen
+# Phoneauth
 
-A new Flutter project.
+Phone number auth Flutter project.
 
 ## Getting Started
 
